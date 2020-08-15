@@ -4,7 +4,7 @@ Some settings are exclusively for **Intellij** or *Webstorm*
 
 ## Custom Keymap
 
-|                       |                                              |
+| Key binding           | Action                                       |
 |:---                   |:---                                          |
 | `F1`                  | **Debug** / *Run*                            |
 | `F2`                  | Rename                                       |
@@ -18,7 +18,7 @@ Some settings are exclusively for **Intellij** or *Webstorm*
 | `F10`                 | Step Out                                     |
 | `F11`                 | Resume Program                               |
 | `F12`                 | Terminal                                     |
-| `F13`                 | **Generate**                                 |
+| `F13`                 | Generate                                 	   |
 | `F14`                 | **Replace Constructor with Factory Method**  |
 | `F15`                 | **Replace Constructor with Builder**         |
 | `F16`                 | Zen Mode                                     |
@@ -32,7 +32,6 @@ Some settings are exclusively for **Intellij** or *Webstorm*
 | `Ctrl + W`            | Close                                        |
 | `Ctrl + Y`            | Redo                                         |
 | `Ctrl + Shift + Y`    | Delete Line                                  |
-|                       |                                              |
 
 
 ## Plugins
