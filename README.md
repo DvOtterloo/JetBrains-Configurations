@@ -6,27 +6,28 @@ Some settings are exclusively for **Intellij** or *Webstorm*
 
 | Key binding        | Action                                      |
 | :----------------- | :------------------------------------------ |
-| `F1`               | **Debug** / *Run*                           |
+| `F1`               | Inline                                      |
 | `F2`               | Rename                                      |
 | `F3`               | Introduce Variable                          |
-| `F4`               | Inline                                      |
-| `F5`               | Extract Method                              |
+| `SHIFT + F3`       | Extract Method                              |
+| `F4`               | Stop                                        |
+| `F5`               | **Debug** / *Run*                           |
 | `F6`               | Reformat File                               |
 | `F7`               | Reformat Code                               |
 | `F8`               | Step Over                                   |
 | `F9`               | Step Into                                   |
 | `F10`              | Step Out                                    |
 | `F11`              | Resume Program                              |
-| `F12`              | Terminal                                    |
-| `F13`              | Generate                                    |
+| `F12`              | Generate                                    |
+| `F13`              | Terminal                                    |
+| `Ctrl + F13`       | Productivity Guide                          |
 | `F14`              | Switch Case                                 |
 | `F15`              | Quick Documentation                         |
 | `F16`              | Quick Definition                            |
-| `F17`              | Zen Mode                                    |
+| `F17`              | Zen mode                                    |
+| `SHIFT + F17`      | Toggle Full Screen mode                     |
 | `F18`              | **Replace Constructor with Factory Method** |
 | `F19`              | **Replace Constructor with Builder**        |
-| `Pause`            | Stop                                        |
-| `Ctrl + F13`       | Productivity Guide                          |
 | `Ctrl + J`         | Select Previous Tab                         |
 | `Ctrl + ;`         | Select Next Tab                             |
 | `Ctrl + K`         | Move Line Up                                |
