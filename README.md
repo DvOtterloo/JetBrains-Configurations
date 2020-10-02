@@ -40,6 +40,7 @@ Some settings are exclusively for **Intellij** or *Webstorm*
 ## Plugins
 
 - CheckStyle-IDEA
+- Rainbow Brackets
 - **Clean Code Method Rearranger**
 - CodeGlance
 - **Cursive**
@@ -59,3 +60,13 @@ Some settings are exclusively for **Intellij** or *Webstorm*
   * Size: 15 (1440p)
   * Line spacing: 1.25
   * Enable font Ligatures: `TRUE`
+
+## Live templates
+
+| Abbr     | Template text                                                |
+| -------- | ------------------------------------------------------------ |
+| `pf`     | `private final`                                              |
+| `pv`     | `private void`                                               |
+| `logger` | `private static final org.slf4j.Logger logger = org.slf4j.LoggerFactory.getLogger($CLASS$.class);` |
+| `sb`     | `var sb = new StringBuilder();`                              |
+
