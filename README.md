@@ -4,37 +4,38 @@ Some settings are exclusively for **Intellij** or *Webstorm*
 
 ## Custom Keymap
 
-| Key binding        | Action                                      |
-| :----------------- | :------------------------------------------ |
-| `F1`               | Inline                                      |
-| `F2`               | Rename                                      |
-| `F3`               | Introduce Variable                          |
-| `SHIFT + F3`       | Extract Method                              |
-| `F4`               | Stop                                        |
-| `F5`               | **Debug** / *Run*                           |
-| `F6`               | Reformat File                               |
-| `F7`               | Reformat Code                               |
-| `F8`               | Step Over                                   |
-| `F9`               | Step Into                                   |
-| `F10`              | Step Out                                    |
-| `F11`              | Resume Program                              |
-| `F12`              | Generate                                    |
-| `F13`              | Terminal                                    |
-| `Ctrl + F13`       | Productivity Guide                          |
-| `F14`              | Switch Case                                 |
-| `F15`              | Quick Documentation                         |
-| `F16`              | Quick Definition                            |
-| `F17`              | Zen mode                                    |
-| `SHIFT + F17`      | Toggle Full Screen mode                     |
-| `F18`              | **Replace Constructor with Factory Method** |
-| `F19`              | **Replace Constructor with Builder**        |
-| `Ctrl + J`         | Select Previous Tab                         |
-| `Ctrl + ;`         | Select Next Tab                             |
-| `Ctrl + K`         | Move Line Up                                |
-| `Ctrl + L`         | Move Line Down                              |
-| `Ctrl + W`         | Close                                       |
-| `Ctrl + Y`         | Redo                                        |
-| `Ctrl + Shift + Y` | Delete Line                                 |
+| Key binding        | Action                     |
+| :----------------- | :------------------------- |
+| `F1`               | Inline                     |
+| `F2`               | Rename                     |
+| `F3`               | Introduce Variable         |
+| `SHIFT + F3`       | Extract Method             |
+| `F4`               | Stop                       |
+| `F5`               | **Debug** / *Run*          |
+| `F6`               | Reformat Code              |
+| `SHIFT F6`         | Reformat File              |
+| `F7`               | Next Highlighted Error     |
+| `SHIFT F7`         | Previous Highlighted Error |
+| `F8`               | Annotate (Git)             |
+| `F9`               | Close all but pinned       |
+| `F10`              | Pin Active tap             |
+| `F11`              | Last edit location         |
+| `F12`              | Hide Active tool           |
+| `F13`              | Switcher                   |
+| `F14`              | Switch Case                |
+| `F15`              | Quick Documentation        |
+| `F16`              | Quick Definition           |
+| `F17`              | Zen mode                   |
+| `SHIFT + F17`      | Toggle Full Screen mode    |
+| `F18`              | Getter and Setter          |
+| `F19`              | Getter                     |
+| `Ctrl + J`         | Select Previous Tab        |
+| `Ctrl + ;`         | Select Next Tab            |
+| `Ctrl + K`         | Move Line Up               |
+| `Ctrl + L`         | Move Line Down             |
+| `Ctrl + W`         | Close                      |
+| `Ctrl + Y`         | Redo                       |
+| `Ctrl + Shift + Y` | Delete Line                |
 
 
 ## Plugins
@@ -50,6 +51,7 @@ Some settings are exclusively for **Intellij** or *Webstorm*
 - Translation
 - Statistics
 - **Ideolog**
+- Key Promoter X
 
 ## Appearance
 
