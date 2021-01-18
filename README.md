@@ -11,14 +11,16 @@ Some settings are exclusively for **Intellij** or *Webstorm*
 | `F3`               | Introduce Variable         |
 | `SHIFT + F3`       | Extract Method             |
 | `F4`               | Stop                       |
-| `F5`               | **Debug** / *Run*          |
+| `F5`               | **Debug**                  |
 | `F6`               | Reformat Code              |
-| `SHIFT F6`         | Reformat File              |
+| `SHIFT F6`         | Rearrange Methods          |
 | `F7`               | Next Highlighted Error     |
 | `SHIFT F7`         | Previous Highlighted Error |
 | `F8`               | Annotate (Git)             |
-| `F9`               | Close all but pinned       |
-| `F10`              | Pin Active tap             |
+| `F9`               | Pin Active tap             |
+| `SHIFT F9`         | Close all but pinned       |
+| `F10`              | Generate                   |
+| `SHIFT F10`        | Refactor this              |
 | `F11`              | Last edit location         |
 | `F12`              | Hide Active tool           |
 | `F13`              | Switcher                   |
@@ -34,8 +36,10 @@ Some settings are exclusively for **Intellij** or *Webstorm*
 | `Ctrl + K`         | Move Line Up               |
 | `Ctrl + L`         | Move Line Down             |
 | `Ctrl + W`         | Close                      |
+| `Ctrl + SHIFT + W` | Close other tabs           |
 | `Ctrl + Y`         | Redo                       |
 | `Ctrl + Shift + Y` | Delete Line                |
+| `Ctrl + [1-9]`     | Select Tab [1-9]           |
 
 
 ## Plugins
