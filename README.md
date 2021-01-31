@@ -30,7 +30,7 @@ Some settings are exclusively for **Intellij** or *Webstorm*
 | `F17`                  | Zen mode                   |
 | `SHIFT + F17`          | Toggle Full Screen mode    |
 | `F18`                  | Getter and Setter          |
-| `SHIFT + F18           | Getter                     |
+| `SHIFT + F18`          | Getter                     |
 | `Ctrl + J`             | Select Previous Tab        |
 | `Ctrl + ;`             | Select Next Tab            |
 | `Ctrl + K`             | Move Line Up               |
