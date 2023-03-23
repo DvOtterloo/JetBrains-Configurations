@@ -87,3 +87,6 @@ Some settings are exclusively for **Intellij** or *Webstorm*
 uncheck `Actual method parameter is the same constant`
 
 uncheck `Result of method call returning a promise is ignored`
+
+Change `Optional.get is called without isPresent() check` Severity level to `Weak Warning` and Highlighting in Editor to `Text style warning`
+
